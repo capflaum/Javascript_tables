@@ -29,7 +29,11 @@ function runEnter() {
 
     //console.log(inputValue);f
 
-    var filteredData = tableData.filter(data => data.datetime === inputValue || data => data.city === inputValue || data => data.state === inputValue || data => data.country === inputValue || data => data.shape === inputValue);
+    var filteredData = tableData.filter(data => data.datetime === inputValue || 
+                                        data.city === inputValue || 
+                                        data.state === inputValue || 
+                                        data.country === inputValue || 
+                                        data.shape === inputValue);
     console.log(filteredData);
 
     // Display filtered results
@@ -40,6 +44,8 @@ function runEnter() {
             console.log(key,value);
             var cell = row.append("td");
             cell.text(value);
+
+    list.append(tbody).text(filteredData);
         });
     });
 };
