@@ -1,5 +1,8 @@
 # JavaScript and DOM Manipulation
 
+![image](https://user-images.githubusercontent.com/69134400/120051851-41ef2e80-bfd7-11eb-9d72-3bac583e48f5.png)
+
+
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
