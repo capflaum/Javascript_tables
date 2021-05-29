@@ -24,6 +24,9 @@ The planet Earth needs to know what we have found!
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
+![image](https://user-images.githubusercontent.com/69134400/120051882-63e8b100-bfd7-11eb-8b8e-76cebc5e65b3.png)
+
+
 ### Level 2: Multiple Search Categories
 
 * Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
