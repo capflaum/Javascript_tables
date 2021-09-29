@@ -30,10 +30,10 @@ function runEnter() {
     //console.log(inputValue);f
 
     var filteredData = tableData.filter(data => data.datetime === inputValue || 
-                                        data.city === inputValue || 
-                                        data.state === inputValue || 
-                                        data.country === inputValue || 
-                                        data.shape === inputValue);
+        data.city === inputValue || 
+        data.state === inputValue || 
+        data.country === inputValue || 
+        data.shape === inputValue);
     console.log(filteredData);
 
     // Display filtered results
