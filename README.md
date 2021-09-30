@@ -14,16 +14,6 @@ That's why we are hiring you. We need you to write code that will create a table
 The planet Earth needs to know what we have found!
 
 
-### Automatic Table and Date Search
-
-* Create a basic HTML web page file.
-
-* Using the UFO dataset provided in the form of an array of JavaScript objects, code is written that appends a table to the web page and then adds new rows of data for each UFO sighting.
-
-  * adding columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
-
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
-
 ![image](https://user-images.githubusercontent.com/69134400/120051882-63e8b100-bfd7-11eb-8b8e-76cebc5e65b3.png)
 
 
